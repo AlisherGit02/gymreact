@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/gymreact/static/css/main.fec58065.css",
-    "main.js": "/gymreact/static/js/main.4159bb9d.js",
+    "main.css": "/gymreact/static/css/main.e8c4b147.css",
+    "main.js": "/gymreact/static/js/main.ab5fd7e4.js",
     "static/media/hero_image.png": "/gymreact/static/media/hero_image.e19ac0c6b1009c7280f5.png",
     "static/media/t-image1.png": "/gymreact/static/media/t-image1.c16c2c261034cf78ee57.png",
     "static/media/image1.png": "/gymreact/static/media/image1.1091417d32e491f0bbb6.png",
@@ -12,11 +12,11 @@
     "static/media/t-image2.jpg": "/gymreact/static/media/t-image2.f5d2e52e514c544dfffb.jpg",
     "static/media/hero_image_back.png": "/gymreact/static/media/hero_image_back.9f54bfba33048f4ca688.png",
     "index.html": "/gymreact/index.html",
-    "main.fec58065.css.map": "/gymreact/static/css/main.fec58065.css.map",
-    "main.4159bb9d.js.map": "/gymreact/static/js/main.4159bb9d.js.map"
+    "main.e8c4b147.css.map": "/gymreact/static/css/main.e8c4b147.css.map",
+    "main.ab5fd7e4.js.map": "/gymreact/static/js/main.ab5fd7e4.js.map"
   },
   "entrypoints": [
-    "static/css/main.fec58065.css",
-    "static/js/main.4159bb9d.js"
+    "static/css/main.e8c4b147.css",
+    "static/js/main.ab5fd7e4.js"
   ]
 }
